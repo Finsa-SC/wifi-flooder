@@ -1,4 +1,3 @@
-cat << 'EOF' > flood.py
 import socket
 from concurrent.futures import ThreadPoolExecutor
 import random
